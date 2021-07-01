@@ -2,7 +2,7 @@
   "name": "weather-app",
   "version": "1.0.0",
   "description": "",
-  "homepage": "http://Alejocabeza.github.io/weather-app-js",
+  "homepage": "https://Alejocabeza.github.io/weather-app-js",
   "main": "index.js",
   "scripts": {
     "predeploy": "npm run build",
