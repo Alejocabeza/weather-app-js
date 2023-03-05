@@ -12,4 +12,4 @@ In this project, I used tools like Webpack, Bootstrap, vanilla JavaScript, and o
 
 ## The Lastes Version
 
-> In this lastes version changes `WEBPACK` for `VITE`
+- In this lastes version changes `WEBPACK` for `VITE`
